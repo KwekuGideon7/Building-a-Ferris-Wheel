@@ -1,3 +1,8 @@
+body{
+    box-sizing: border-box;
+    margin-top: 5%;
+    margin-left: 27%;
+}
 .wheel {
     border: 2px solid black;
     border-radius: 50%;
